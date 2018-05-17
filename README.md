@@ -1,1 +1,2 @@
-# Cyclos_BANK
+# CyclosAPI
+Cyclos Webserive Java Clients
